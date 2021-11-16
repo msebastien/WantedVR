@@ -1,7 +1,7 @@
 # WantedVR
 VR Western game prototype. Powered by Unity 3D. Student Project.
 
-This depot uses Git LFS for large asset files.
+This repository uses Git LFS for large asset files.
 
 ## Info
 - Unity version : 2020.1.2
