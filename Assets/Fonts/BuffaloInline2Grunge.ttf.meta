@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4eb1e436a8c51394ab6fc1943dc91b90
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Buffalo Inline 2 Grunge
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1a9befb0d298505438f9d1d219c86764, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
